@@ -1,0 +1,2 @@
+# calculator
+django sample project 
